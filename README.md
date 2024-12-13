@@ -47,7 +47,8 @@
 
 ## Output:
 ![exp--3](https://github.com/user-attachments/assets/1055dfcb-f124-49f2-b050-1e248413da19)
-![exp-3](https://github.com/user-attachments/assets/3c997ae1-d0be-4a48-87e0-e73807d51243)
+![exp-3](https://github.com/user-attachments/assets/918f48f0-b547-4791-b436-ee18f844214d)
+
 
 ### Name:Harini P
 ### Register Number:24005217
